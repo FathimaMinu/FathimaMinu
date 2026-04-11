@@ -1,41 +1,31 @@
 <h1 align="center">👋 Hi, I'm Fathima Minu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=BSc+Hons+in+Information+Technology;AI%2FML+Internship+Focused;Full+Stack+Web+Developer;Building+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Internship+Focused+Developer;BSc+Hons+Information+Technology;Full+Stack+Web+Developer;Building+Smart+Real+World+AI+Systems" />
 </p>
 
 ---
 
-## 🎓 About Me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimaMinu&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 About Me
 
 🎓 Undergraduate at SLIIT (BSc Hons in Information Technology)  
 💻 Specializing in Information Technology  
 🤖 AI/ML Enthusiast focused on Internship Opportunities  
-🚀 Passionate about building intelligent real-world applications  
+🚀 Passionate about building intelligent real-world systems  
 
 ---
 
-## 🧠 About My Work
-
-- 🤖 Artificial Intelligence & Machine Learning projects  
-- 💻 Full Stack Web Development using React.js  
-- 🎨 UI/UX Design using Figma & Tailwind CSS  
-- 📊 Built Student Performance Prediction AI system  
-- 🌱 Continuously improving AI and development skills  
-
----
-
-## ⚡ Tech Stack
+## ⚡ Skills Matrix
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,tailwind,nodejs,mongodb,mysql,figma,git,github" />
 
 </p>
 
@@ -43,60 +33,75 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Student Performance Prediction System
-<p>AI model that predicts student academic performance using Machine Learning.</p>
+### 🤖 Student Performance Prediction (AI Project)
+> Machine Learning system that predicts student academic performance using Python & ML models
 
 ---
 
 ### 📚 Library Management System
-<p>Full-stack system for managing books, users, and transactions.</p>
+> Full-stack system with authentication and database management
 
 ---
 
-### 🍽 Food Ordering Web Application
-<p>Responsive React.js application with clean UI and UX design.</p>
+### 🍽 Food Ordering Web App
+> Responsive React.js UI with clean UX design
 
 ---
 
 ### 🛒 Pharmacy Inventory System
-<p>Inventory management system for stock tracking and updates.</p>
+> Stock and inventory tracking system with CRUD operations
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaMinu&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FathimaMinu&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaMinu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🏆 Achievements
 
-📧 Email: minufathima2004@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/fathima-minu-b510b4372  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FathimaMinu&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/fathima-minu-b510b4372">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:minufathima2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 Career Goal
 
-To become an AI/ML Engineer by gaining internship experience and building intelligent real-world systems.
+🚀 To become an **AI/ML Engineer Intern → AI Engineer**  
+💡 Building real-world intelligent systems that solve real problems  
 
 ---
 
