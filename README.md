@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fathima Minu</h1>
+<h1 align="center">👋 Hi, I'm Fathima Minu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=BSc+Hons+in+Information+Technology;AI%2FML+Internship+Focused;Full+Stack+Developer;Building+Smart+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=BSc+Hons+in+Information+Technology;AI%2FML+Internship+Focused;Full+Stack+Web+Developer;Building+Real+World+AI+Systems" />
 </p>
 
 ---
@@ -15,71 +15,55 @@
 
 ---
 
-## 🎯 Career Focus
+## 🧠 About My Work
 
-- 🤖 AI / Machine Learning Internships  
-- 💻 Full Stack Web Development  
-- 📊 Data-driven intelligent systems  
-- 🚀 Real-world problem solving using AI  
+- 🤖 Artificial Intelligence & Machine Learning projects  
+- 💻 Full Stack Web Development using React.js  
+- 🎨 UI/UX Design using Figma & Tailwind CSS  
+- 📊 Built Student Performance Prediction AI system  
+- 🌱 Continuously improving AI and development skills  
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Student Performance Prediction System
-AI model that predicts student academic performance using Machine Learning.
+<p>AI model that predicts student academic performance using Machine Learning.</p>
 
 ---
 
 ### 📚 Library Management System
-Full-stack system for managing books, users, and transactions.
+<p>Full-stack system for managing books, users, and transactions.</p>
 
 ---
 
 ### 🍽 Food Ordering Web Application
-Responsive UI web app with clean UX design.
+<p>Responsive React.js application with clean UI and UX design.</p>
 
 ---
 
 ### 🛒 Pharmacy Inventory System
-Inventory management system for tracking stock and updates.
+<p>Inventory management system for stock tracking and updates.</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight" />
@@ -110,9 +94,9 @@ Inventory management system for tracking stock and updates.
 
 ---
 
-## 💡 Goal
+## 🎯 Career Goal
 
-🎯 To secure an **AI/ML Internship** and grow as an Artificial Intelligence Engineer by building impactful real-world systems.
+To become an AI/ML Engineer by gaining internship experience and building intelligent real-world systems.
 
 ---
 
