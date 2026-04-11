@@ -109,3 +109,7 @@
 <p align="center">
   ⭐ Always learning. Always building. ⭐
 </p>
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/FathimaMinu/FathimaMinu/blob/output/github-contribution-grid-snake.svg)
