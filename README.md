@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathima Minu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Software+Engineering+Student;Building+Smart+Real+World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=BSc+Hons+in+Information+Technology;AI%2FML+Internship+Focused;Full+Stack+Developer;Building+Smart+AI+Systems" />
 </p>
 
 ---
@@ -9,9 +9,18 @@
 ## 🎓 About Me
 
 🎓 Undergraduate at SLIIT (BSc Hons in Information Technology)  
-💻 Specializing in Software Engineering & Intelligent Systems  
-🤖 Passionate about Artificial Intelligence & Machine Learning  
-🚀 Focused on building intelligent, scalable applications  
+💻 Specializing in Information Technology  
+🤖 AI/ML Enthusiast focused on Internship Opportunities  
+🚀 Passionate about building intelligent real-world applications  
+
+---
+
+## 🎯 Career Focus
+
+- 🤖 AI / Machine Learning Internships  
+- 💻 Full Stack Web Development  
+- 📊 Data-driven intelligent systems  
+- 🚀 Real-world problem solving using AI  
 
 ---
 
@@ -41,7 +50,7 @@
 
 ---
 
-### 🛠 Tools & Platforms
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -51,16 +60,22 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Student Performance Prediction System
-AI-based system to predict student academic performance using ML models.
+AI model that predicts student academic performance using Machine Learning.
+
+---
 
 ### 📚 Library Management System
 Full-stack system for managing books, users, and transactions.
 
+---
+
 ### 🍽 Food Ordering Web Application
-Responsive UI web app with interactive design and clean UX.
+Responsive UI web app with clean UX design.
+
+---
 
 ### 🛒 Pharmacy Inventory System
-Inventory tracking system for stock management and updates.
+Inventory management system for tracking stock and updates.
 
 ---
 
@@ -80,7 +95,7 @@ Inventory tracking system for stock management and updates.
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FathimaMinu&theme=tokyonight&row=1&column=6" />
@@ -88,16 +103,16 @@ Inventory tracking system for stock management and updates.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
 📧 Email: minufathima2004@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/fathima-minu-b510b4372  
 
 ---
 
-## 💡 Career Goal
+## 💡 Goal
 
-To become an AI/ML Engineer and Full Stack Developer, building intelligent systems that solve real-world problems.
+🎯 To secure an **AI/ML Internship** and grow as an Artificial Intelligence Engineer by building impactful real-world systems.
 
 ---
 
