@@ -1,14 +1,19 @@
 <div align="center">
-  <h1>Fathima Minu</h1>
-  <p><b>BSc (Hons) IT Undergraduate | AI/ML & Software Engineering</b></p>
+  <!-- Main Header Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Fathima+Minu;AI%2FML+%26+Software+Engineer" alt="Typing SVG" />
+  </a>
   
-  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/" target="_blank">
+  <br/>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:minufathima2004@gmail.com" target="_blank">
+  <a href="mailto:minufathima2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/FathimaMinu" target="_blank">
+  <a href="https://github.com/FathimaMinu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -16,21 +21,53 @@
 <br/>
 
 ### 👤 About
-Motivated undergraduate at SLIIT with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering. Hands-on experience in developing AI/ML solutions and full-stack applications. Seeking an internship opportunity to apply technical skills and gain industry experience.
+Motivated BSc (Hons) Information Technology undergraduate at SLIIT with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering. Hands-on experience in developing AI/ML solutions and full-stack applications. Seeking an internship opportunity to apply technical skills and gain industry experience.
 
 <br/>
 
-### ⚙️ Core Stack
+### ⚙️ Technical Expertise
 
-<p align="left">
+<!-- Skill Section Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning;Frontend+Development;Backend+Architecture;Database+Management;Tools+%26+Technologies" alt="Skills Typing Animation" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,nodejs,express,postgres,mongodb,git,github,docker" />
-</p>
+</div>
 
-- **AI / Machine Learning:** Scikit-learn, Pandas, NumPy, LLMs, RAG, LangChain
-- **Frontend:** React.js, React Native, HTML, CSS, Three.js
-- **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JWT
-- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, ChromaDB
-- **Tools:** Git, GitHub, Docker, Postman, Swagger, JUnit, Figma
+<br/>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 10px; display: inline-block;">
+      <h4>🤖 AI / Machine Learning</h4>
+      <p><code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code> <code>LLMs</code> <code>RAG</code> <code>LangChain</code></p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d; display: inline-block;">
+      <h4>🎨 Frontend</h4>
+      <p><code>React.js</code> <code>React Native</code> <code>HTML</code> <code>CSS</code> <code>Three.js</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d; display: inline-block;">
+      <h4>⚙️ Backend</h4>
+      <p><code>Spring Boot</code> <code>Node.js</code> <code>Express.js</code> <code>REST APIs</code> <code>JWT</code></p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d; display: inline-block;">
+      <h4>🗄️ Databases</h4>
+      <p><code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>Supabase</code> <code>ChromaDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 15px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d; text-align: center;">
+      <h4>🛠️ Tools & Technologies</h4>
+      <p><code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Postman</code> <code>Swagger</code> <code>JUnit</code> <code>Figma</code></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
