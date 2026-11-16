@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Stylish Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Fathima%20Minu&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=AI%2FML%20%26%20Software%20Engineering%20Intern&descAlignY=80&descSize=18" width="100%" />
-
-  <br/><br/>
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Fathima+Minu;AI%2FML+%26+Software+Engineer" alt="Typing SVG" />
+  
+  <br/>
 
   <!-- Modern Social Badges -->
   <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
@@ -94,11 +94,4 @@ Currently, I'm looking for an **AI/ML or Software Engineering Internship** where
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/FathimaMinu/FathimaMinu/output/snake.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 </div>
