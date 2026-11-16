@@ -27,14 +27,14 @@ Currently, I'm looking for an **AI/ML or Software Engineering Internship** where
 
 <br/>
 
-<!-- Tech Stack Section (Different style) -->
+<!-- Tech Stack Section -->
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <p><i>Languages & Frameworks</i></p>
+  <p><i>Languages and Frameworks</i></p>
   <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,nodejs,express,html,css" /><br/><br/>
   
-  <p><i>Databases & Tools</i></p>
+  <p><i>Databases and Tools</i></p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,postman,figma" />
 </div>
 
