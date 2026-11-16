@@ -1,66 +1,131 @@
-<h1 align="center">👋 Hi, I'm Fathima Minu</h1>
+
+<h1 align="center">Hi 👋, I'm Fathima Minu</h1>
+
+<h3 align="center">
+AI/ML Engineer Intern Candidate | Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Internship+Focused+Developer;BSc+Hons+Information+Technology;Full+Stack+Web+Developer;Building+Smart+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Software+Engineering+Undergraduate;Full+Stack+Developer;Building+Intelligent+Real-World+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:minufathima2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimaMinu&theme=tokyonight" />
-</p>
+## 👩‍💻 About Me
+
+- 🎓 BSc (Hons) Information Technology Undergraduate at SLIIT.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Passionate about Software Engineering and Full Stack Development.
+- 🚀 Building AI-powered applications and scalable software solutions.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 🎯 Open to AI/ML Engineering and Software Engineering Internship opportunities.
 
 ---
 
-## 🌟 About Me
+## 🛠️ Technical Skills
 
-🎓 Undergraduate at SLIIT (BSc Hons in Information Technology)  
-💻 Specializing in Information Technology  
-🤖 AI/ML Enthusiast focused on Internship Opportunities  
-🚀 Passionate about building intelligent real-world systems  
+### Artificial Intelligence & Machine Learning
+Python | Scikit-learn | Pandas | NumPy | LLMs | RAG | LangChain
 
----
+### Programming Languages
+Python | Java | JavaScript | C
 
-## ⚡ Skills Matrix
+### Frontend Development
+React.js | React Native | HTML | CSS | Three.js
+
+### Backend Development
+Spring Boot | Node.js | Express.js | REST APIs | JWT Authentication
+
+### Databases
+PostgreSQL | MySQL | MongoDB | Supabase | ChromaDB
+
+### Tools & Technologies
+Git | GitHub | Docker | Postman | Swagger | JUnit | Figma
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,react,tailwind,nodejs,mongodb,mysql,figma,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,spring,nodejs,express,html,css,postgres,mysql,mongodb,git,github,docker,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Student Performance Prediction (AI Project)
-> Machine Learning system that predicts student academic performance using Python & ML models
+### 🤖 Enterprise AI Assistant Platform
+- Developing a full-stack enterprise AI assistant platform.
+- Integrated document management, analytics and JWT authentication.
+- Building a RAG pipeline for intelligent document question answering.
+
+**Tech:** React, Spring Boot, Python, FastAPI, LangChain, ChromaDB, PostgreSQL, Docker.
+
+### 📊 Student Performance Prediction
+- Developed an ML model to predict student academic performance.
+- Used data preprocessing and machine learning techniques.
+- Focused on identifying students at academic risk.
+
+**Tech:** Python, Pandas, Scikit-learn.
+
+### 💊 MediCare Pharmacy Inventory System
+- Developed a full-stack pharmacy inventory management system.
+- Implemented medicine CRUD operations and stock management.
+- Added low-stock alerts, expiry tracking and dashboard analytics.
+- Integrated AI-based stock prediction features.
+
+**Tech:** React, Java, Spring Boot, PostgreSQL, Supabase.
+
+### 🐾 PawCare – Pet Care Management App
+- Contributed to a comprehensive pet care mobile application.
+- Integrated an AI-powered symptom checker using Groq API.
+- Implemented authentication, role-based access and notifications.
+
+**Tech:** React Native, Expo, Node.js, Express.js, MongoDB.
+
+### 🚗 RideLink – Account Service
+- Developed a ride-sharing account microservice.
+- Implemented JWT authentication and BCrypt password hashing.
+- Documented 8 REST API endpoints using Swagger.
+- Achieved 43 passing JUnit tests.
+
+**Tech:** Java, Spring Boot, JWT, Swagger, JUnit.
+
+### 📱 NOVA X – 3D Smartphone Showcase
+- Developing an interactive 3D smartphone showcase.
+- Exploring AI-powered recommendation features.
+
+**Tech:** React, Three.js, JavaScript.
 
 ---
 
-### 📚 Library Management System
-> Full-stack system with authentication and database management
+## 🎓 Certifications
+
+- AI & Machine Learning – Stages 1 & 2 | SLIIT
+- MongoDB Data Modeling Path | MongoDB University
+- Introduction to Large Language Models | Google Cloud
+- Introduction to Generative AI | Google Cloud
+- Foundations of Prompt Engineering | AWS Skill Builder
 
 ---
 
-### 🍽 Food Ordering Web App
-> Responsive React.js UI with clean UX design
+## 🏆 Achievements
 
----
-
-### 🛒 Pharmacy Inventory System
-> Stock and inventory tracking system with CRUD operations
+- CodeFest 2025 – Selected among Top 16 teams in Round 1.
+- SLIIT University Netball Team – Active Member.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -69,47 +134,33 @@
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FathimaMinu&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=tokyo-night" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:minufathima2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎯 Career Goal
-
-🚀 To become an **AI/ML Engineer Intern → AI Engineer**  
-💡 Building real-world intelligent systems that solve real problems  
-
----
-
-<p align="center">
-  ⭐ Always learning. Always building. ⭐
-</p>
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/FathimaMinu/FathimaMinu/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FathimaMinu/FathimaMinu/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
+    LinkedIn
+  </a> •
+  <a href="mailto:minufathima2004@gmail.com">
+    Email
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Always Learning | Always Building | Always Growing ⭐
+</p>
