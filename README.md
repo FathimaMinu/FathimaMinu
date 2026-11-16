@@ -48,7 +48,7 @@ Currently, I'm looking for an **AI/ML or Software Engineering Internship** where
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #161b22;">
       <h4 align="center">🤖 Enterprise AI Assistant</h4>
       <p align="center"><i>AI-Powered Full-Stack Platform</i></p>
-      <p>Integrated a Python FastAPI-based RAG pipeline using LangChain and ChromaDB for intelligent document Q&A.</p>
+      <p>Integrated a Python FastAPI-based RAG pipeline using LangChain and ChromaDB for intelligent document Q and A.</p>
       <p><b>React • Spring Boot • Python • LangChain</b></p>
     </td>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #161b22;">
@@ -77,7 +77,7 @@ Currently, I'm looking for an **AI/ML or Software Engineering Internship** where
 <br/>
 
 <!-- Stats and Graphs -->
-### 📊 Insights & Analytics
+### 📊 Insights and Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&icon_color=00F7FF" height="160" />
