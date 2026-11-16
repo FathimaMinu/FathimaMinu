@@ -1,100 +1,112 @@
-<h1 align="center">Fathima Minu</h1>
-<h3 align="center">BSc (Hons) IT Undergraduate | AI/ML & Software Engineering Intern Candidate</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055ff&height=200&section=header&text=Fathima%20Minu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+<h3 align="center">BSc (Hons) IT Undergraduate @ SLIIT</h3>
+<h4 align="center">AI/ML & Software Engineering Intern Candidate</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:minufathima2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/FathimaMinu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### Professional Summary
-Motivated BSc (Hons) Information Technology undergraduate at SLIIT with a strong focus on Artificial Intelligence, Machine Learning, and Software Engineering. Experienced in developing AI/ML solutions and full-stack applications. Seeking an internship opportunity to apply technical skills and contribute to building intelligent, scalable real-world systems.
+### 💡 Professional Summary
+
+> Motivated BSc (Hons) Information Technology undergraduate at SLIIT with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering. Hands-on experience in developing AI/ML solutions and full-stack applications. Seeking an internship to apply technical skills and gain industry experience.
 
 ---
 
-### Technical Skills
-
-- **AI / Machine Learning:** Scikit-learn, Pandas, NumPy, LLMs, RAG, LangChain
-- **Programming Languages:** Python, Java, JavaScript, C
-- **Frontend:** React.js, React Native, HTML, CSS, Three.js
-- **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JWT Authentication
-- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, ChromaDB
-- **Tools & Platforms:** Git, GitHub, Docker, Postman, Swagger, JUnit, Figma
+### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,nodejs,express,postgres,mongodb,git,github,docker,figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,nodejs,express,postgres,mongodb,git,github,docker,figma&theme=dark" />
+  </a>
 </p>
 
----
-
-### Featured Projects
-
-**Enterprise AI Assistant Platform**
-- Developed a full-stack platform with document management, analytics, and JWT authentication.
-- Integrated a Python FastAPI-based RAG pipeline using LangChain and ChromaDB.
-- *Tech:* React, Spring Boot, Python, FastAPI, LangChain, PostgreSQL, Docker.
-
-**MediCare Pharmacy Inventory System**
-- Developed a comprehensive inventory management system with real-time analytics.
-- Implemented CRUD operations, low-stock alerts, and AI-based stock predictions.
-- *Tech:* React.js, Java 17, Spring Boot, PostgreSQL, Supabase.
-
-**PawCare – Pet Care Mobile App (Group Project)**
-- Contributed to a pet care app featuring appointments and profile management.
-- Integrated a Groq API-powered AI symptom checker and automated notifications.
-- *Tech:* React Native, Expo, Node.js, Express.js, MongoDB.
-
-**Student Performance Prediction (AI)**
-- Developed a Machine Learning model to predict academic performance and identify at-risk students.
-- Used Python and Scikit-learn for data processing and model development.
-- *Tech:* Python, Scikit-learn, Pandas.
-
-**RideLink – Account Microservice**
-- Developed a ride-sharing account microservice with RBAC and BCrypt hashing.
-- Documented 8 REST API endpoints and achieved 43 passing JUnit tests.
-- *Tech:* Java, Spring Boot, JWT, Swagger, JUnit.
+* **AI / Machine Learning:** Scikit-learn, Pandas, NumPy, LLMs, RAG, LangChain
+* **Programming:** Python, Java, JavaScript, C
+* **Frontend:** React.js, React Native, HTML, CSS, Three.js
+* **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JWT
+* **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, ChromaDB
+* **Tools:** Git, GitHub, Docker, Postman, Swagger, JUnit, Figma
 
 ---
 
-### Certifications
+### 🚀 Featured Projects
 
-- AI & Machine Learning – Stages 1 & 2 | SLIIT
-- MongoDB Data Modeling Path | MongoDB University
-- Introduction to Large Language Models | Google Cloud
-- Introduction to Generative AI | Google Cloud
-- Foundations of Prompt Engineering | AWS Skill Builder
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Enterprise AI Assistant Platform</h3>
+      <p>Full-stack enterprise AI platform with document management, analytics dashboard, and JWT auth.</p>
+      <p><b>Integrated:</b> FastAPI RAG pipeline using LangChain & ChromaDB.</p>
+      <code>React</code> <code>Spring Boot</code> <code>Python</code> <code>LangChain</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 MediCare Inventory System</h3>
+      <p>Full-stack pharmacy system with CRUD operations, real-time analytics, and low-stock alerts.</p>
+      <p><b>Integrated:</b> AI-based stock predictions and sales history features.</p>
+      <code>React.js</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Supabase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐾 PawCare Mobile App</h3>
+      <p>Pet care app with vet appointments, grooming, and boarding features.</p>
+      <p><b>Integrated:</b> Groq API-powered AI symptom checker and automated notifications.</p>
+      <code>React Native</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Performance Prediction</h3>
+      <p>Machine Learning model to predict academic performance and identify at-risk students.</p>
+      <p><b>Integrated:</b> Data preprocessing and ML model development.</p>
+      <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Achievements
+### 🏆 Certifications & Achievements
 
-- **CodeFest 2025:** Selected among the Top 16 teams in Round 1 of the Mini Hackathon.
-- **SLIIT University Netball Team:** Active Member (2025 – Present).
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+- 🥇 **CodeFest 2025** – Top 16 teams in Round 1 (Mini Hackathon)
+- 🎓 AI & Machine Learning (Stages 1 & 2) | **SLIIT**
+- 🗄️ MongoDB Data Modeling Path | **MongoDB University**
+- 🤖 Introduction to LLMs & Generative AI | **Google Cloud**
+- ✍️ Foundations of Prompt Engineering | **AWS Skill Builder**
 
 ---
 
-<p align="center">
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/FathimaMinu/FathimaMinu/output/snake.svg" alt="Contribution Snake Animation" />
-</p>
+</div>
 
 <p align="center">
   <i>Always learning. Always building.</i>
