@@ -1,71 +1,82 @@
-# Fathima Minu
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Fathima+Minu;AI%2FML+%26+Software+Engineering+Intern" alt="Typing SVG" />
+  
+  <br/>
 
-**BSc (Hons) Information Technology Undergraduate, SLIIT**
-AI/ML and Software Engineering | Seeking an internship
+  <a href="https://www.linkedin.com/in/fathima-minu-b510b4372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:minufathima2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FathimaMinu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/fathima-minu-b510b4372/) · [Email](mailto:minufathima2004@gmail.com) · [GitHub](https://github.com/FathimaMinu)
+<br/>
 
----
+> *BSc (Hons) Information Technology Undergraduate at SLIIT. Passionate about building intelligent, scalable, and real-world AI/ML and full-stack solutions. Currently seeking an internship to apply my technical skills in a professional environment.*
 
-## About
+<br/>
 
-I am an Information Technology undergraduate at SLIIT focused on building practical AI/ML solutions and full-stack applications. My work spans retrieval-augmented generation (RAG) pipelines, predictive modelling, and production-style web and mobile apps with secure APIs. I am looking for an internship where I can contribute to real engineering problems and grow within a team.
+### 🛠️ My Arsenal
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,react,spring,nodejs,express,postgres,mongodb,git,github,docker,figma&perline=13" />
+</div>
 
-## Technical Skills
+<br/>
 
-| Area | Technologies |
-|---|---|
-| **AI / Machine Learning** | Scikit-learn, Pandas, NumPy, LLMs, RAG, LangChain |
-| **Languages** | Python, Java, JavaScript, C |
-| **Frontend** | React.js, React Native, HTML, CSS, Three.js |
-| **Backend** | Spring Boot, Node.js, Express.js, REST APIs, JWT |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Supabase, ChromaDB |
-| **Tools** | Git, GitHub, Docker, Postman, Swagger, JUnit, Figma |
+### 💻 What I've Built
 
----
+**🧠 Enterprise AI Assistant Platform**
+> Developed a full-stack AI platform integrating a Python FastAPI RAG pipeline using LangChain and ChromaDB. Features document management, analytics dashboard, and JWT authentication.
+> `React` `Spring Boot` `FastAPI` `LangChain` `PostgreSQL`
 
-## Featured Projects
+**💊 MediCare Pharmacy Inventory System**
+> A full-stack inventory management system with real-time dashboard analytics. Integrated AI-based stock predictions, low-stock alerts, and expiry tracking.
+> `React.js` `Java 17` `Spring Boot` `Supabase`
 
-### Enterprise AI Assistant Platform
-Full-stack enterprise platform with document management, an analytics dashboard, and JWT-based authentication. Includes a FastAPI service that runs a RAG pipeline using LangChain and ChromaDB to answer questions over uploaded documents.
-`React` `Spring Boot` `Python` `FastAPI` `LangChain` `ChromaDB`
+**🐾 PawCare – Pet Care Mobile App**
+> Contributed to a comprehensive pet care application featuring an AI symptom checker using Groq API. Implemented secure JWT authentication and role-based access.
+> `React Native` `Node.js` `Express` `MongoDB`
 
-### MediCare Inventory System
-Pharmacy management system with CRUD operations, real-time analytics, and low-stock alerts. Extended with AI-based stock prediction and sales history tracking to support restocking decisions.
-`React.js` `Spring Boot` `PostgreSQL` `Supabase`
+**🎓 Student Performance Prediction**
+> Built a Machine Learning model to predict academic performance and identify at-risk students using data preprocessing and Scikit-learn.
+> `Python` `Scikit-learn` `Pandas`
 
-### PawCare Mobile App
-Cross-platform pet care app covering vet appointments, grooming, and boarding. Features an AI symptom checker powered by the Groq API and automated notifications.
-`React Native` `Node.js` `Express` `MongoDB`
+<details>
+<summary><b>🔍 View More Projects (Click to Expand)</b></summary>
+<br/>
 
-### Student Performance Prediction
-Machine learning model that predicts academic performance and flags at-risk students. Covers data preprocessing, feature preparation, and model development.
-`Python` `Scikit-learn` `Pandas`
+**🚗 RideLink – Account Microservice**
+> Ride-sharing account microservice with BCrypt hashing, RBAC, and 8 documented REST API endpoints via Swagger. Achieved 43 passing JUnit tests.
+> `Java` `Spring Boot` `JWT` `Swagger` `JUnit`
 
----
+**📱 NOVA X – 3D Showcase**
+> Interactive 3D smartphone showcase with animated UI elements and AI-powered recommendation features (In Progress).
+> `React` `Three.js` `JavaScript`
 
-## Certifications and Achievements
+</details>
 
-- **CodeFest 2025:** Top 16 teams in Round 1 (Mini Hackathon)
-- **AI and Machine Learning (Stages 1 and 2):** SLIIT
-- **MongoDB Data Modeling Path:** MongoDB University
-- **Introduction to LLMs and Generative AI:** Google Cloud
-- **Foundations of Prompt Engineering:** AWS Skill Builder
+<br/>
 
----
+### 🏆 Certifications & Milestones
 
-## GitHub Activity
+- **CodeFest 2025:** Top 16 Teams (Round 1 Mini Hackathon)
+- **AI & Machine Learning:** Stages 1 & 2 (SLIIT)
+- **Data & AI:** MongoDB Data Modeling Path, Intro to LLMs, Intro to Generative AI, Prompt Engineering
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimaMinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaMinu&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+### 📈 GitHub Activity
 
-## Contact
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaMinu&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
 
-Open to internship opportunities in AI/ML and software engineering.
-Reach me at [minufathima2004@gmail.com](mailto:minufathima2004@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/fathima-minu-b510b4372/).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FathimaMinu/FathimaMinu/output/snake.svg" alt="Contribution Snake" />
+</div>
