@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Main Header Typing Animation -->
+  <!-- Main Header Typing Animation (Speed Increased) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Fathima+Minu;AI%2FML+%26+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=500&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Fathima+Minu;AI%2FML+%26+Software+Engineer" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -26,13 +26,6 @@ Motivated BSc (Hons) Information Technology undergraduate at SLIIT with a strong
 <br/>
 
 ### ⚙️ Technical Expertise
-
-<!-- Skill Section Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning;Frontend+Development;Backend+Architecture;Database+Management;Tools+%26+Technologies" alt="Skills Typing Animation" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,nodejs,express,postgres,mongodb,git,github,docker" />
